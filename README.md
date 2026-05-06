@@ -24,8 +24,8 @@ Voici les differentes etapes de l'application :
 ## Demonstration Video
 J'ai enregistre une demonstration montrant l'animation d'ouverture, le scroll fluide de la liste, la recherche d'une star particuliere et le changement de note via le popup.
 
-<video src="video_lab7.mp4" controls="controls" style="max-width: 100%;">
-</video>
+[<video src="video_lab7.mp4" controls="controls" style="max-width: 100%;">
+</video>](https://github.com/user-attachments/assets/bcc43ed4-9c4d-4d89-a807-f337815422f7)
 
 ---
 
