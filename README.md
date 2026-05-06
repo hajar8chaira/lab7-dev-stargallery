@@ -16,7 +16,7 @@ Voici les differentes etapes de l'application :
 
 | Modification de Note | Partage de l'App |
 | :---: | :---: |
-| ![Popup](img-lab7-dev/screen3.png) | ![Partage](img-lab7-dev/screen4.png) |
+| ![Popup](img-lab7-dev/3.png) | ![Partage](img-lab7-dev/4.png) |
 | AlertDialog avec RatingBar jaune | Intent de partage natif Android |
 
 ---
