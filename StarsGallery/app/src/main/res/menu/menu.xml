@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Bouton de Recherche -->
+    <item
+        android:id="@+id/app_bar_search"
+        android:title="Rechercher"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always" />
+
+    <!-- Bouton Partager (Nouveau) -->
+    <item
+        android:id="@+id/app_bar_share"
+        android:title="Partager"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Thème de base -->
+    <style name="Theme.StarsGallery" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Couleur principale (Rouge) -->
+        <item name="colorPrimary">#D32F2F</item>
+        <!-- Couleur de la barre tout en haut (Status Bar) -->
+        <item name="colorPrimaryVariant">#B71C1C</item> <!-- Rouge plus foncé -->
+        <item name="android:statusBarColor">#B71C1C</item> <!-- Force le rouge en haut -->
+        ...
+    </style>
+</resources>
